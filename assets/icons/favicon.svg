@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- 仮のfavicon（紺の斜め切りプレート＋金の「JB」）。アプリアイコンが確定したら差し替える -->
+  <path d="M0 0H52L64 12V64H12L0 52Z" fill="#0b1530"/>
+  <path d="M0 0H52L64 12V64H12L0 52Z" fill="none" stroke="#465FFF" stroke-width="4"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="28" fill="#FFC53D">JB</text>
+</svg>
